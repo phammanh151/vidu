@@ -1,0 +1,1 @@
+Scaffold-DbContext "chuỗi_kết_nối" Microsoft.EntityFrameworkCore.SqlServer –OutputDir Models
